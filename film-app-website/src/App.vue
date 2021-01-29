@@ -40,11 +40,10 @@
     h1 {
       color: #fff;
       font-size: 28px;
+
+      span {
+        color: #75cfb8;
+      }
     }
   }
-
-  // 13:56
-
-  //colours
-  // https://colorhunt.co/palette/106550
 </style>
