@@ -1,3 +1,9 @@
+<h1>電影搜尋器</h1>
+<h2>前端-</h2>
+<p>採用Vue3、Vue Cli前端框架</p>
+<p>Fetch第三方網站api</p>
+<p>Git分流部屬到Github</p>
+
 <h1>Film search Website/App</h1>
 <p>Vue3, Vue Cli, OMDB API, Git</p>
 
