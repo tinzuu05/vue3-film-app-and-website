@@ -3,6 +3,8 @@
 <p>採用Vue3、Vue Cli前端框架</p>
 <p>Fetch第三方網站api</p>
 <p>Git分流部屬到Github</p>
+<p>輸入關鍵字即可搜尋出相對應的電影片名</p>
+<p>解決http與https混和使用問題</p>
 
 <h1>Film search Website/App</h1>
 <p>Vue3, Vue Cli, OMDB API, Git</p>
